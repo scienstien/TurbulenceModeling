@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(msbuild:*)",
+      "Bash(where cl:*)",
+      "Bash(\"/c/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.50.35717/bin/HostX64/x64/cl\":*)",
+      "mcp__plugin_claude-mem_mcp-search__search"
+    ]
+  }
+}
